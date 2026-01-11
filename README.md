@@ -13,6 +13,9 @@ pinned: false
 
 This project demonstrates how to use **Machine Learning (Random Forest)** and **Generative AI (Grok)** to detect and explain network attacks (specifically DDoS).
 
+## Dataset Link:
+https://huggingface.co/spaces/thestagylad/networkintrusiondetection/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
 ## 🚀 How to Use
 1. **Enter API Key:** Paste your Grok API key in the sidebar (optional, for AI explanations).
 2. **Train Model:** Click the "Train AI Model" button. The system loads the `Friday-WorkingHours...` dataset automatically.
