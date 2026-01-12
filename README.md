@@ -17,7 +17,7 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 https://huggingface.co/spaces/subhadeepghosh/SecureNet
 
 ## Dataset Link:
-https://huggingface.co/spaces/thestagylad/networkintrusiondetection/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+https://huggingface.co/spaces/subhadeepghosh/networkintrusiondetection/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 
 ## 🚀 How to Use
 1. **Enter API Key:** Paste your Grok API key in the sidebar (optional, for AI explanations).
